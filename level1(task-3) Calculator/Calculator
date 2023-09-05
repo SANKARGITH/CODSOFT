@@ -1,0 +1,52 @@
+Simple Calculator using HTML, CSS, and JavaScript
+
+Simple Calculator
+
+This simple calculator is a web-based application built using HTML, CSS, and JavaScript.
+It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division with ease.
+
+Features
+
+User-Friendly Interface: The calculator has a clean and intuitive user interface, making it easy for users to perform calculations.
+
+Basic Arithmetic Operations: You can perform addition, subtraction, multiplication, and division using this calculator.
+
+Responsive Design: The calculator is responsive and works well on various screen sizes, including desktop and mobile devices.
+
+How It Works
+
+Number Buttons: Click on the number buttons to input the numbers you want to perform calculations with.
+
+Operator Buttons: Click on the operator buttons (+, -, *, /) to select the desired arithmetic operation.
+
+Equals (=) Button: Press the equals button to see the result of your calculation.
+
+Clear (C) Button: Use the clear button to reset the calculator for a new calculation.
+
+Technologies Used
+
+1.HTML: The structure and layout of the calculator are created using HTML.
+
+2.CSS: CSS styles are applied to enhance the visual appearance and make the calculator responsive.
+
+3.JavaScript: JavaScript is used to handle user interactions, perform calculations, and display results dynamically.
+
+Try It Out
+
+You can try out this simple calculator by opening the calculator.html file in your web browser. Feel free to use it for your day-to-day calculations or as a reference for building more advanced calculator applications.
+
+Customization
+
+If you'd like to customize or extend this calculator, you can easily modify the HTML, CSS, and JavaScript code to suit your needs.
+It's a great starting point for learning web development and building interactive web applications.
+
+Acknowledgments
+
+This project is created for educational purposes and serves as a basic example of building a calculator using web technologies.
+It can be expanded and improved upon to create more sophisticated calculator applications.
+
+Enjoy using the simple calculator, and happy coding!
+
+
+
+
