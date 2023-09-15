@@ -1,0 +1,99 @@
+.paper_heading {
+  width: 100%;
+  background-color: rgb(119, 119, 175);
+  display: flex;
+  flex-direction: row;
+}
+.paper_name,
+.exam_head {
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(255, 251, 251);
+  width: 90%;
+  text-align: center;
+  text-transform: uppercase;
+  /* float: left; */
+}
+.paper_profile,
+.exam_timer {
+  width: 35%;
+  color: white;
+  text-align: left;
+}
+.start_exam {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(44, 44, 78);
+  color: white;
+}
+.questions {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.questions .question_display {
+  width: 110%;
+}
+.btn {
+  width: 50px;
+  height: 40px;
+  background-color: rgb(63, 63, 99);
+  color: white;
+  font-weight: bolder;
+  font-size: larger;
+  display: none;
+}
+.questions_start {
+  text-align: center;
+}
+/* .question_numbers{
+        /* display: none;
+    } */
+table,
+tr,
+td {
+  padding: 15px;
+  margin-left: 10px;
+  /* color: white;
+        background-color: black; */
+}
+.btn:hover {
+  color: black;
+  background-color: rgb(93, 204, 93);
+}
+.question_paper {
+  display: none;
+  margin: 30px;
+}
+.btnsn input {
+  width: 80px;
+  height: 40px;
+  margin: 20px;
+  background-color: rgb(83, 20, 80);
+  font-weight: bold;
+  color: white;
+}
+.submit {
+  width: 100px;
+  height: 50px;
+  float: right;
+  margin-right: 20px;
+}
+.submit [type="button"] {
+  width: 100%;
+  height: 100%;
+  color: white;
+  font-size: larger;
+  font-weight: bold;
+  /* border: none; */
+  outline: none;
+  background-color: lawngreen;
+}
+.submit [type="button"]:hover {
+  background-color: rgb(119, 119, 161);
+}
+.end {
+  position: absolute;
+  top: 30%;
+  left: 30%;
+}
