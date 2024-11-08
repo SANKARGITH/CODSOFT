@@ -7,7 +7,7 @@ Topic: WEB-DEVELOPMENT
 
 Internship Provider: CodSoft Inc.
 
-Internship Duration: 5th sept 2023 to 5th oct 2023
+Internship Duration: 5th Oct 2023 to 5th Dec 2023
 
 Intern: SANKAR
 
